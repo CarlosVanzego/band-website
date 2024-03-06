@@ -92,10 +92,10 @@ html, body {
 
 .about-band-image {
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     margin: 15px;
-    border-radius: 50%;
+    border-radius: 25%;
 }
 
 .main-footer {
