@@ -1,16 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 
-/* @font-face {
-    font-family: "" ;
-    src: url() format(),
-        url() format();
-    font-weight: normal;
-    font-style: normal;
-    font-weight: normal;
-    color: white;
-} */
-
 * {
     box-sizing: border-box;
     font-family: Raleway;
@@ -65,7 +55,6 @@ html, body {
     text-align: center;
     margin: 0;
     font-size: 4em;
-    /* font-family:  ; */
 }
 
 .band-name-large {
@@ -99,7 +88,7 @@ html, body {
 }
 
 .main-footer {
-    background-color: #327ad3;
+    background-color: rgb(235, 72, 12);
     color: white;
     padding: .25em 0;
 }
